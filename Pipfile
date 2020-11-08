@@ -7,6 +7,7 @@ name = "pypi"
 numpy = "*"
 requests = "*"
 twine = "*"
+spacy = "*"
 
 [dev-packages]
 "flake8" = "*"
@@ -15,6 +16,7 @@ ipython = "*"
 mypy = "*"
 sphinx = "*"
 sphinx-rtd-theme = "*"
+spacy = "*"
 
 [requires]
 python_version = "3.7"
